@@ -17,3 +17,7 @@ C:\Users\luxel\source\repos\ATMProject\ATMProject\obj\Debug\ATMProject.Form6.res
 C:\Users\luxel\source\repos\ATMProject\ATMProject\bin\Debug\tr\ATMProject.resources.dll
 C:\Users\luxel\source\repos\ATMProject\ATMProject\obj\Debug\ATMProject.Form1.tr.resources
 C:\Users\luxel\source\repos\ATMProject\ATMProject\obj\Debug\tr\ATMProject.resources.dll
+C:\Users\luxel\source\repos\ATMProject\ATMProject\obj\Debug\ATMProject.Form2.tr.resources
+C:\Users\luxel\source\repos\ATMProject\ATMProject\obj\Debug\ATMProject.Form3.tr.resources
+C:\Users\luxel\source\repos\ATMProject\ATMProject\obj\Debug\ATMProject.Form4.tr.resources
+C:\Users\luxel\source\repos\ATMProject\ATMProject\obj\Debug\ATMProject.Form5.tr.resources

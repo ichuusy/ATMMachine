@@ -37,7 +37,7 @@ namespace ATMProject
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if(richTextBox1.Text == "1234") 
+            if(richTextBox1.Text == "1234" && radioButton1.Checked) 
             {
                 this.Hide();
                 Form2 form2 = new Form2();
